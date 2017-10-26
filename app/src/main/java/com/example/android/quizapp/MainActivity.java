@@ -41,11 +41,11 @@ public class MainActivity extends AppCompatActivity {
         resultSummary = DisplayResult();
 
        /* Show the summary message ----- TextView method*/
-        TextView SummaryText= (TextView) findViewById(R.id.summary_text_view);
-        SummaryText.setText(resultSummary);
+//        TextView SummaryText= (TextView) findViewById(R.id.summary_text_view);
+//        SummaryText.setText(resultSummary);
 
        /* Show the summary message ----- Toast method*/
-        //Toast.makeText(this,resultSummary,Toast.LENGTH_LONG).show();
+        Toast.makeText(this,resultSummary,Toast.LENGTH_LONG).show();
 
 
     }
