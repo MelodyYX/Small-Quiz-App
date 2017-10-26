@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Geo Quiz</string>
+    <string name="Q1">Q1.What is the capital of Australia? </string>
+    <string name="q1_a1">Sydney</string>
+    <string name="q1_a2">Canberra</string>
+
+    <string name="Q2">Q2.The Great Victoria Desert is located in: </string>
+    <string name="q2_a1">Canada</string>
+    <string name="q2_a2">Australia</string>
+
+    <string name="Q3">Q3.Which animal is native to Australia?</string>
+    <string name="q3_a1">Koala</string>
+    <string name="q3_a2">Panda</string>
+
+    <string name="Q4">Q4.Which country has the longest coastline in the world?</string>
+    <string name="q4_a1">Greenland</string>
+    <string name="q4_a2">Canada</string>
+
+    <string name="Q5">Q5.Which two of the following colours do NOT appear on the China flag?</string>
+    <string name="q5_a1">Blue</string>
+    <string name="q5_a2">Green</string>
+    <string name="q5_a3">Red</string>
+
+</resources>
